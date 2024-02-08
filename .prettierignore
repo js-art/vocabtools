@@ -1,0 +1,16 @@
+/server/index.js
+/public/build
+
+.cache
+.env
+.env-example
+.vercel
+.output
+.node-persist
+
+node_modules
+/.husky
+.vscode/
+pnpm-lock.yaml
+next.config.js
+tsconfig.json
