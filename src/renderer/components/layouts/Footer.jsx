@@ -5,7 +5,7 @@ import { Navbar, NavbarBrand, NavbarContent, NavbarItem, Link, Button } from '@n
 export default function Footer() {
   return (
     <div className="text-center text-xs text-gray-300">
-      2024 © Naderi (javascript.github@gmail.com)
+      2024 © Naderi (javascript.github@gmail.com) v:1.0.1
     </div>
   );
 }

@@ -204,7 +204,6 @@
       "createStartMenuShortcut": true,
       "menuCategory": false
     },
-    "afterSign": ".erb/scripts/notarize.js",
     "mac": {
       "target": {
         "target": "default",
